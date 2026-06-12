@@ -1,4 +1,25 @@
 # AgileSoftwareDevelopment
-Agile Software Development is course in 6th semester for Bachelor in Software Engineering at Pokhara University. This folder comprise lab assignment for students. Students are requested add their folder with their name_rollno.
+# 🚀 Agile Software Development Lab Assignments
 
-Create your own folder with your name  and upload all your lab sheets in  your own folder. You may commmit with using #1 on commiting lab1 so I can track from the issue.
+Welcome to the **Agile Software Development** course repository 📚
+
+This course is offered in the **6th Semester of the Bachelor in Software Engineering** program at **Pokhara University**.
+
+---
+
+## 📂 Repository Purpose
+
+This repository contains all **lab assignments, exercises, and practical work** completed during the course.
+
+Each student is responsible for maintaining their own workspace within this repository.
+
+---
+
+## 👨‍🎓 Student Instructions
+
+### 1️⃣ Create Your Personal Folder
+
+Create a folder using the following naming convention:
+
+```text
+YourName_RollNo
